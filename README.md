@@ -1,2 +1,2 @@
 # MedicalInstromnetsAnalysis
-this game help starter doctors for increasing their attention for surgeries with detecting correct placement of instroments by analizing original picture with new placement
+this game helps amateur suregeons increas their knowledge of surgeries by detecting the correct placement of instruments and analyzing the provided frames and demonstration.
